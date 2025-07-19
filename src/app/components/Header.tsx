@@ -8,7 +8,7 @@ export default function Header() {
         <nav className="space-x-6 text-sm text-white">
           <a href="#home">Home</a>
           <a href="#about">About</a>
-          <a href="#work">Work</a>
+          <a href="#work">Projects</a>
         </nav>
         <a href="https://github.com/" target="_blank" className="text-white text-2xl">🐱</a>
       </header>

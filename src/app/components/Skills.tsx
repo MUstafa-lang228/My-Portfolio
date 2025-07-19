@@ -1,7 +1,7 @@
 const skills = [
     { title: "Front-End", experience: "60+ Hours Experience" },
     { title: "Python", experience: "4 Years Experience" },
-    { title: "Machine Learning", experience: "120+ Hours Experience" },
+    { title: "Back-End", experience: "120+ Hours Experience" },
   ];
   
   export default function Skills() {

@@ -2,7 +2,7 @@ export default function Hero() {
     return (
       <section id="home" className="flex flex-col-reverse md:flex-row items-center py-12">
         <div className="md:w-1/2 space-y-4">
-          <p className="text-gray-400">Hello, I’m Muhammad Umar,</p>
+          <p className="text-gray-400">Hello, I’m Mustafa Qaiser,</p>
           <h1 className="text-4xl font-extrabold text-blue-300">
             Full stack<br />Developer
           </h1>
